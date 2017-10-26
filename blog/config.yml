@@ -1,0 +1,26 @@
+site:
+    title: CLSF 
+    subtitle: China Linux Storage, Memory management & File system Workshop 
+    logo: http://www.china-lsf.org/wp-content/uploads/2011/09/lsf-banner-2011.jpg 
+    limit: 50 
+    theme: theme
+    lang: en
+    url: "https://www.china-lsf.org/"
+    comment: clsf 
+
+authors:
+    clsf:
+        name: The CLSF committee
+        intro: The CLSF committee 
+        # avatar: -/images/tibo.jpg
+
+build:
+    port: 8000
+    # Copied files to public folder when build
+    copy:
+        - "source/images"
+    # Excuted command when use 'ink publish'
+    publish: |
+        git add . -A
+        git commit -m "update"
+        git push origin
