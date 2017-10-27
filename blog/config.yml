@@ -1,7 +1,7 @@
 site:
     title: CLSF 
     # subtitle: China Linux Storage, Memory management & File system Workshop 
-    logo: -/images/lsf-banner.png 
+    logo: -/images/lsf_banner.png 
     limit: 50 
     theme: theme
     lang: en
