@@ -9,7 +9,12 @@ CLSF2017 takes place on Oct 19-20, in SUSE Linux Beijing office, here is the fin
 
 ---
 
-Oct 19
+2017 Oct 19
+
+ |-|-|
+ 
+ | 8:30 - 9:00 | Registration|
+ | 9:00 - 10:00 | Self Introduction |
 
 
 Oct 20
