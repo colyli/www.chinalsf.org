@@ -10,11 +10,15 @@ preview: Now we have 5 sponsors confirm to provide meeting venue and fund to CLS
 
 We are very gald to announce the following 5 ponsors, they confirm to provide meeting venue and fund support to CLSF2017.
 
-SUSE Linux: Provides a commodious and comfortable meeting froom
-Hyper.sh: Spons fund for all water, soft drink
-Baidu.com: Spons fund for one of the group dinners
-XSKY: Spons fund for one of the group dinners
-Huawei: Spons fund for 2 days lunchs, and the rested expense of the meeting.
+* SUSE Linux: Provides a commodious and comfortable meeting froom
+
+* Hyper.sh: Spons fund for all water, soft drink
+
+* Baidu.com: Spons fund for one of the group dinners
+
+* XSKY: Spons fund for one of the group dinners
+
+* Huawei: Spons fund for 2 days lunchs, and the rested expense of the meeting.
 
 Our sponsors, thank you! Your contribution make a more successful CLSF in 2017.
 
