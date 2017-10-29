@@ -4,7 +4,7 @@ author: clsf
 tags:
     - CLSF2017
 
-preview: This year CLSF2017 committee members nominate 62 people to be invited, most of them are very active developer of upstream Linux kernel community, 50 people accept the invitation. Let''s meet in Beijing!
+preview: This year CLSF2017 committee members nominate 62 people to be invited, most of them are active developers of upstream Linux kernel community from China, up to now 50 people accept the invitation. Let's meet in Beijing!
 
 ---
 
