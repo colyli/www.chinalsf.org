@@ -1,4 +1,4 @@
-title: Finally Agenda for CLSF2017 
+title: Final Agenda of CLSF2017 
 date: 2017-10-18 0:00:00 +0800
 author: clsf 
 tags:
